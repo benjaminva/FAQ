@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Frequently Asked Questions (FAQ)
 
-You can use the [editor on GitHub](https://github.com/benjaminva/FAQ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aquí he concentrado la mayoría de preguntas que me hacen estudiantes de todos los cursos, tanto de la logística como de la explicación sobre las decisiones académicas que tomo en lo cursos que imparto. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[¿Donde puedo encontrar los contenidos de la materia?](#donde-puedo-encontrar-los-contenidos-de-la-materia)
+
+### ¿Donde puedo encontrar los contenidos de la materia? 
 
 ### Markdown
 
@@ -35,3 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Foo
