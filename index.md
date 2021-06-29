@@ -7,17 +7,17 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 
 [¿Puedo entrar a una clase de oyente?](#puedo-entrar-a-una-clase-de-oyente)
 
-[¿Por qué son difíciles los exámenes?](#por-qué-son-difíciles-los-exámenes?)
+[¿Por qué son difíciles los exámenes?](#por-qué-son-difíciles-los-exámenes)
 
-[¿Por qué tengo que leer por mi cuenta?](#por-qué-tengo-que-leer-por-mi-cuenta?)
+[¿Por qué tengo que leer por mi cuenta?](#por-qué-tengo-que-leer-por-mi-cuenta)
 
-[¿Cuáles son las materias más importantes del programa?](#cuáles-son-las-materias-más-importantes-del-programa?)
+[¿Cuáles son las materias más importantes del programa?](#cuáles-son-las-materias-más-importantes-del-programa)
 
-[¿Puedo usar mis proyectos en otra materia o hacer mi proyecto en conjunto con otra materia?](#puedo-usar-mis-proyectos-en-otra-materia-o-hacer-mi-proyecto-en-conjunto-con-otra-materia?)
+[¿Puedo usar mis proyectos en otra materia o hacer mi proyecto en conjunto con otra materia?](#puedo-usar-mis-proyectos-en-otra-materia-o-hacer-mi-proyecto-en-conjunto-con-otra-materia)
 
-[¿Puedo hacer mis proyectos sobre mi trabajo o mis prácticas?](#puedo-hacer-mis-proyectos-sobre-mi-trabajo-o-mis-prácticas?)
+[¿Puedo hacer mis proyectos sobre mi trabajo o mis prácticas?](#puedo-hacer-mis-proyectos-sobre-mi-trabajo-o-mis-prácticas)
 
-[¿Por qué tengo que subir todo a un repositorios de github o similares?](#por-qué-tengo-que-subir-todo-a-un-repositorios-de-github-o-similares?)
+[¿Por qué tengo que subir todo a un repositorios de github o similares?](#por-qué-tengo-que-subir-todo-a-un-repositorios-de-github-o-similares)
 
 [¿Donde puedo encontrar los contenidos de la materia?](#donde-puedo-encontrar-los-contenidos-de-la-materia)
  
