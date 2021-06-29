@@ -99,6 +99,7 @@ Porque es lo que estarás usando en tu vida profesional, porque así creas un po
 ### ¿Donde puedo encontrar los contenidos de la materia?
 
 Aquí están los contenidos de los cursos, para verlos simplemnete descarguen el proyecto y abran en index.html en su navegador web
+
 [TC1028 Progra Python](https://github.com/benjaminva/TC1028-Pensamiento-Computacional-Ingeneria)
 
 [TC1033 POO UMLS](https://github.com/benjaminva/TC1033)
