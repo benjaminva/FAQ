@@ -33,11 +33,11 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 [¿Si todo el material está en internet y lo puedo aprender por mi cuenta para qué voy a clase?](#si-todo-el-material-está-en-internet-y-lo-puedo-aprender-por-mi-cuenta-para-qué-voy-a-clase)
 
 ### Sobre los cursos de Inteligencia Artificial y Data Science
-[¿Cada cuando se abre la clase de IA95022 Tecnologias de Sistemas Inteligentes (Deep Learning)?](#cada-cuando-se-abre-la-clase-de-ia95022-tecnologias-de-sistemas-inteligentes-(deep-learning))
+[¿Cada cuando se abre la clase de IA95022 Tecnologias de Sistemas Inteligentes (Deep Learning)?](#cada-cuando-se-abre-la-clase-de-ia95022-tecnologias-de-sistemas-inteligentes-deep-learning)
 
-[¿Qué tengo que saber antes de tomar IA95022 Tecnologias de Sistemas Inteligentes (Deep Learning)?](#qué-tengo-que-saber-antes-de-tomar-ia95022-tecnologias-de-sistemas-inteligentes-(deep-learning))
+[¿Qué tengo que saber antes de tomar IA95022 Tecnologias de Sistemas Inteligentes (Deep Learning)?](#qué-tengo-que-saber-antes-de-tomar-ia95022-tecnologias-de-sistemas-inteligentes-deep-learning)
 
-[¿Qué tengo que saber antes de tomar TC2011 Sistemas Inteligentes (Intro a IA)?](#qué-tengo-que-saber-antes-de-tomar-tc2011-sistemas-inteligentes-(intro-a-ia))
+[¿Qué tengo que saber antes de tomar TC2011 Sistemas Inteligentes (Intro a IA)?](#qué-tengo-que-saber-antes-de-tomar-tc2011-sistemas-inteligentes-intro-a-ia)
 
 [¿Cuál es la diferencia entre IA95022 Tecnologias de Sistemas y TC2011 Sistemas Inteligentes?](#cuál-es-la-diferencia-entre-ia95022-tecnologias-de-sistemas-y-tc2011-sistemas-inteligentes)
 
