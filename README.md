@@ -7,6 +7,8 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 
 [¿Puedo entrar a una clase de oyente?](#puedo-entrar-a-una-clase-de-oyente)
 
+[¿Puedo agendar una asesoria aunque no esté en su clase?](#puedo-agendar-una-asesoria-aunque-no-este-en-su-clase)
+
 [¿Por qué son difíciles los exámenes?](#por-qué-son-difíciles-los-exámenes)
 
 [¿Por qué tengo que leer por mi cuenta?](#por-qué-tengo-que-leer-por-mi-cuenta)
@@ -70,6 +72,10 @@ Mi correo es bvaldesa@tec.mx, aquí atiendo las peticiones de los alumnos en los
 ### ¿Puedo entrar a una clase de oyente?
 
 Sí, siempre y cuando haya espacio en el salón, ya que la prioridad la tienen los alumnos registrados, si es por zoom no hay problema mientras usen su cuenta del tec. Normalmente no dejamos entrar a desconocidos por la seguridad de los alumnos y para evitar interrupciones.
+
+### ¿Puedo agendar una asesoria aunque no esté en su clase?
+
+Sí, de hecho puedes agendar asesorías con cualquier profesor siempre y cuando el tenga tiempo y no sea durante finales, donde el tiempo de asesoría se usa para calificar proyectos y exámenes. En semestre puedes agendar asesoría conmigo [aquí](https://qrgo.page.link/M6HNX) en los espacios disponibles. Si no es época de clases puedes mandar un correo a bvaldesa@tec.mx y ahí nos ponemos de acuerdo. 
 
 ### ¿Por qué son difíciles los exámenes?
 
