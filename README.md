@@ -21,7 +21,7 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 
 [¿Por qué tengo que subir todo a un repositorio de github o similares?](#por-qué-tengo-que-subir-todo-a-un-repositorios-de-github-o-similares)
 
-[¿Dónde puedo encontrar los contenidos de la materia?](#donde-puedo-encontrar-los-contenidos-de-la-materia)
+[¿Dónde puedo encontrar los contenidos de la materia?](#dónde-puedo-encontrar-los-contenidos-de-la-materia)
 
 ### Sobre la universidad
 [¿Para qué me sirve un título de universidad?](#para-qué-me-sirve-un-título-de-universidad)
