@@ -65,11 +65,11 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 
 
 ### Recursos para profesores
-[Diseño de exámenes rápidos argumentativos Tec 21](Diseño de Examen.pdf)
+[Diseño de exámenes rápidos argumentativos Tec 21](https://github.com/benjaminva/FAQ/blob/main/Dise%C3%B1o%20de%20Examen.pdf)
 
-[Evaluación de exámenes rápidos argumentativos Tec 21](Aplicación y Evaluación.pdf)
+[Evaluación de exámenes rápidos argumentativos Tec 21](https://github.com/benjaminva/FAQ/blob/main/Aplicaci%C3%B3n%20y%20Evaluaci%C3%B3n.pdf)
 
-[Integración de exámenes rápidos argumentativos a módulo Tec 21](Integración al módulo.pdf)
+[Integración de exámenes rápidos argumentativos a módulo Tec 21](https://github.com/benjaminva/FAQ/blob/main/Integraci%C3%B3n%20al%20m%C3%B3dulo.pdf)
 
 
 ## General Sobre los cursos:
