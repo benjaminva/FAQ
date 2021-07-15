@@ -7,7 +7,7 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 
 [¿Puedo entrar a una clase de oyente?](#puedo-entrar-a-una-clase-de-oyente)
 
-[¿Puedo agendar una asesoria aunque no esté en su clase?](#puedo-agendar-una-asesoria-aunque-no-este-en-su-clase)
+[¿Puedo agendar una asesoria aunque no esté en su clase?](#puedo-agendar-una-asesoria-aunque-no-esté-en-su-clase)
 
 [¿Por qué son difíciles los exámenes?](#por-qué-son-difíciles-los-exámenes)
 
@@ -19,7 +19,7 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 
 [¿Puedo hacer mis proyectos sobre mi trabajo o mis prácticas?](#puedo-hacer-mis-proyectos-sobre-mi-trabajo-o-mis-prácticas)
 
-[¿Por qué tengo que subir todo a un repositorio de github o similares?](#por-qué-tengo-que-subir-todo-a-un-repositorios-de-github-o-similares)
+[¿Por qué tengo que subir todo a un repositorio de github o similares?](#por-qué-tengo-que-subir-todo-a-un-repositorio-de-github-o-similares)
 
 [¿Dónde puedo encontrar los contenidos de la materia?](#dónde-puedo-encontrar-los-contenidos-de-la-materia)
 
@@ -35,26 +35,26 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 [¿Si todo el material está en internet y lo puedo aprender por mi cuenta para qué voy a clase?](#si-todo-el-material-está-en-internet-y-lo-puedo-aprender-por-mi-cuenta-para-qué-voy-a-clase)
 
 ### Sobre los cursos de Inteligencia Artificial y Data Science
-[¿Cada cuándo se abre la clase de IA95022 Tecnologías de Sistemas Inteligentes (Deep Learning)?](#cada-cuando-se-abre-la-clase-de-ia95022-tecnologias-de-sistemas-inteligentes-deep-learning)
+[¿Cada cuándo se abre la clase de IA95022 Tecnologías de Sistemas Inteligentes (Deep Learning)?](#cada-cuándo-se-abre-la-clase-de-ia95022-tecnologías-de-sistemas-inteligentes-deep-learning)
 
-[¿Qué tengo que saber antes de tomar IA95022 Tecnologías de Sistemas Inteligentes (Deep Learning)?](#qué-tengo-que-saber-antes-de-tomar-ia95022-tecnologias-de-sistemas-inteligentes-deep-learning)
+[¿Qué tengo que saber antes de tomar IA95022 Tecnologías de Sistemas Inteligentes (Deep Learning)?](#qué-tengo-que-saber-antes-de-tomar-ia95022-tecnologías-de-sistemas-inteligentes-deep-learning)
 
 [¿Qué tengo que saber antes de tomar TC2011 Sistemas Inteligentes (Intro a IA)?](#qué-tengo-que-saber-antes-de-tomar-tc2011-sistemas-inteligentes-intro-a-ia)
 
-[¿Cuál es la diferencia entre IA95022 Tecnologías de Sistemas y TC2011 Sistemas Inteligentes?](#cuál-es-la-diferencia-entre-ia95022-tecnologias-de-sistemas-y-tc2011-sistemas-inteligentes)
+[¿Cuál es la diferencia entre IA95022 Tecnologías de Sistemas y TC2011 Sistemas Inteligentes?](#cuál-es-la-diferencia-entre-ia95022-tecnologías-de-sistemas-y-tc2011-sistemas-inteligentes)
 
 [¿Qué recursos externos o adicionales recomienda para aprender Inteligencia Artificial o Machine Learning?](#qué-recursos-externos-o-adicionales-recomienda-para-aprender-inteligencia-artificial-o-machine-learning)
 
-[¿Qué recursos externos o adicionales recomienda para aprender Data Science?](#qué-recursos-externos-o-adicionales-recomienda-para-aprender-data-science?)
+[¿Qué recursos externos o adicionales recomienda para aprender Data Science?](#qué-recursos-externos-o-adicionales-recomienda-para-aprender-data-science)
 
 ### Sobre Programación en General
-[¿Cómo instalo un IDE?](#como-instalo-un-ide)
+[¿Cómo instalo un IDE?](#cómo-instalo-un-ide)
 
-[¿Dónde encuentro un compilador y cómo lo agrego a mis paths?](#donde-encuentro-un-compilador-y-como-lo-agrego-a-mis-paths)
+[¿Dónde encuentro un compilador y cómo lo agrego a mis paths?](#dónde-encuentro-un-compilador-y-cómo-lo-agrego-a-mis-paths)
 
-[¿Cómo uso replit?](#como-uso-replit)
+[¿Cómo conecto replit con github?](#cómo-conecto-replit-con-github)
 
-[¿Cómo creo un repo en github?](#como-creo-un-repo-en-github)
+[¿Cómo creo un repo en github?](#cómo-creo-un-repo-en-github)
 
 [¿Qué recursos adicionales puedo usar para estudiar para los exámenes de programación TC1028 TC1030 TC1033 TC1031?](#qué-recursos-adicionales-puedo-usar-para-estudiar-para-los-exámenes-de-programación-tc1028-tc1030-tc1033-tc1031)
 
@@ -62,6 +62,15 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 
 ### Sobre investigación
 [¿Puedo hacer mi servicio becario contigo?](#puedo-hacer-mi-servicio-becario-contigo)
+
+
+### Recursos para profesores
+[Diseño de exámenes rápidos argumentativos Tec 21](Diseño de Examen.pdf)
+
+[Evaluación de exámenes rápidos argumentativos Tec 21](Aplicación y Evaluación.pdf)
+
+[Integración de exámenes rápidos argumentativos a módulo Tec 21](Integración al módulo.pdf)
+
 
 ## General Sobre los cursos:
 
