@@ -63,6 +63,14 @@ Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de to
 ### Sobre investigación
 [¿Puedo hacer mi servicio becario contigo?](#puedo-hacer-mi-servicio-becario-contigo)
 
+### Sobre Diseño de cursos
+
+[¿Cómo diseñar exámenes rápidos argumentativos?](#cómo-diseñar-exámenes-rápidos-argumentativos)
+
+[¿Cómo es diferente una evaluación por productos a una evaluación por competencias?](#cómo-es-diferente-una-evaluación-por-productos-a-una-evaluación-por-competencias)
+
+
+
 ## General Sobre los cursos:
 
 ### ¿Cómo lo puedo contactar?
@@ -185,3 +193,18 @@ Grupo de estudio para estudiantes de cualquier semestre y carrera donde se resue
 
 Sí es posible, la carga de trabajo es alta y en promedio requiere que califiquen y al mismo tiempo trabajen en algún proyecto del área, ya sea para el departamento o para apoyar alguno de los cursos o en investigación. Es como si llevasen una materia extra y las evaluaciones también son honestas. Recuerden que el servicio becario es una obligación.
 En caso de querer participar les pido me busquen un semestre antes con una propuesta de lo que quieran hacer y ya busco un esquema que mejor nos acomode a mi y a ustedes.
+
+## Sobre Diseñó de Cursos
+
+
+
+### ¿Cómo diseñar exámenes rápidos argumentativos?
+
+[diseño](https://github.com/benjaminva/FAQ/blob/gh-pages/Dise%C3%B1o%20de%20Examen.pdf)
+[aplicación y calificación](https://github.com/benjaminva/FAQ/blob/gh-pages/Aplicaci%C3%B3n%20y%20Evaluaci%C3%B3n.pdf)
+[Integración](https://github.com/benjaminva/FAQ/blob/gh-pages/Integraci%C3%B3n%20al%20m%C3%B3dulo.pdf)
+
+
+### ¿Cómo es diferente una evaluación por productos a una evaluación por competencias?
+
+[comparación](https://github.com/benjaminva/FAQ/blob/gh-pages/comparacion.pdf)
