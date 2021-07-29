@@ -112,6 +112,8 @@ Aquí están los contenidos de los cursos, para verlos simplemente descarguen el
 
 [TC1030 POO C++](https://github.com/benjaminva/TC1030)
 
+[TC1031 algoritmos y estructuras de datos](https://benjaminva.github.io/TC1031-calendario/)
+
 [Semana Tec Vsion](https://github.com/benjaminva/semena-tec-tools-vision)
 
 [Canal de Youtube :) ](https://www.youtube.com/channel/UC_P_VgKXLrG6dmjQycKBVDw)
