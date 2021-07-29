@@ -110,7 +110,7 @@ Aquí están los contenidos de los cursos, para verlos simplemente descarguen el
 
 [TC1033 POO UMLS](https://github.com/benjaminva/TC1033)
 
-[TC1030 POO C++](https://github.com/benjaminva/TC1030)
+[TC1030 POO C++](https://benjaminva.github.io/TC1030/)
 
 [TC1031 algoritmos y estructuras de datos](https://benjaminva.github.io/TC1031-calendario/)
 
