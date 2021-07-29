@@ -149,7 +149,7 @@ IA95022 se cubre redes neuronales exclusivamente, empezando por regresión y ter
 TC2011 es una introducción a varias áreas, se ven regresiones, árboles, ensambles, clusters y agentes. No se ven redes neuronales.
 
 ### ¿Qué recursos externos o adicionales recomienda para aprender Inteligencia Artificial o Machine Learning?
-Los cursos de coursera de Andrew Ng (https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng)
+Los cursos de coursera de [Andrew Ng] (https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng)
 El canal de youtube del [Dr. Cantoral](https://www.youtube.com/channel/UCsNnA_5iXEHWMs7VxOYk33Q)
 Canal de youtube para conceptos de mate y álgebra lineal [3 blue 1 brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
