@@ -106,9 +106,9 @@ Porque es lo que estarás usando en tu vida profesional, porque así creas un po
 
 Aquí están los contenidos de los cursos, para verlos simplemente descarguen el proyecto y abran en index.html en su navegador web
 
-[TC1028 Progra Python](https://github.com/benjaminva/TC1028-Pensamiento-Computacional-Ingeneria)
+[TC1028 Progra Python](https://benjaminva.github.io/TC1028-Pensamiento-Computacional-Ingeneria/)
 
-[TC1033 POO UMLS](https://github.com/benjaminva/TC1033)
+[TC1033 POO UMLS](https://benjaminva.github.io/TC1033/)
 
 [TC1030 POO C++](https://benjaminva.github.io/TC1030/)
 
