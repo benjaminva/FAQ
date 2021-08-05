@@ -200,11 +200,11 @@ En caso de querer participar les pido me busquen un semestre antes con una propu
 
 ### ¿Cómo diseñar exámenes rápidos argumentativos?
 
-[diseño](https://github.com/benjaminva/FAQ/blob/gh-pages/Dise%C3%B1o%20de%20Examen.pdf)
+[diseño](https://github.com/benjaminva/FAQ/blob/gh-pages/Dise%C3%B1o%20de%20Examen.png)
 
-[aplicación y calificación](https://github.com/benjaminva/FAQ/blob/gh-pages/Aplicaci%C3%B3n%20y%20Evaluaci%C3%B3n.pdf)
+[aplicación y calificación](https://github.com/benjaminva/FAQ/blob/gh-pages/Aplicaci%C3%B3n%20y%20Evaluaci%C3%B3n.png)
 
-[Integración](https://github.com/benjaminva/FAQ/blob/gh-pages/Integraci%C3%B3n%20al%20m%C3%B3dulo.pdf)
+[Integración](https://github.com/benjaminva/FAQ/blob/gh-pages/Integraci%C3%B3n%20al%20m%C3%B3dulo.png)
 
 
 
