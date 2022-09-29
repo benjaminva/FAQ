@@ -2,6 +2,8 @@
 
 Aquí he concentrado la mayoría de las preguntas que me hacen estudiantes de todos los cursos, tanto de la logística como sobre las decisiones académicas que hago en los cursos que imparto. Las respuestas listadas aquí son opiniones personales y sólo aplican a los cursos que imparto y diseño, no hablan por otros profesores, ni por el departamento, espero les sea de ayuda :)
 
+[Proyecto de Servicio Becarios](https://benjaminva.github.io/Becarios/)
+
 ### General Sobre los cursos:
 [¿Cómo lo puedo contactar?](#cómo-lo-puedo-contactar)
 
